@@ -8,6 +8,23 @@ return "Welcome, " + name + "." + " You are number " + katzDeli.length + " in li
 }
 
 
+function takeANumber2(){
+
+ numberOfGuests++
+ 
+  console.log("You are guess number " + numberOfGuests)}
+  
+  var numberOfGuests = 0
+  
+
+takeANumber2()
+takeANumber2()
+
+
+
+
+
+
 
 function nowServing(deliLine){
   
